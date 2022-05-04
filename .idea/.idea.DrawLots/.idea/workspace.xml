@@ -15,10 +15,6 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="HighlightingSettingsPerFile">
-    <setting file="mock:///Users/vefa/RiderProjects/DrawLots/DrawLots.Infrustructure/Models/DrawLotsItem.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Users/vefa/RiderProjects/DrawLots/DrawLots.Application/Program.cs" root0="SKIP_HIGHLIGHTING" />
-  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -146,6 +142,7 @@
       <updated>1651686212917</updated>
       <workItem from="1651686215600" duration="295000" />
       <workItem from="1651686525802" duration="4745000" />
+      <workItem from="1651693494130" duration="65000" />
     </task>
     <task id="LOCAL-00001" summary="initial">
       <created>1651687488496</created>
