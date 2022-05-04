@@ -58,7 +58,6 @@ drawlots.ForEach(item =>
     }
 });
 
-
 foreach (var drawLotsItems in forRandom.GroupBy(t =>t.Name))
 {
     Console.WriteLine(drawLotsItems.Key);
